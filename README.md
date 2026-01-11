@@ -1,6 +1,6 @@
 # BMI Calculator
 
-A simple Windows Forms app made in C# for calculating Body Mass Index (BMI).
+A simple Windows forms app made in C# for calculating Body Mass Index (BMI).
 
 ## Features
 - Calculate BMI from height and weight  
